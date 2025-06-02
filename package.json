@@ -1,0 +1,12 @@
+{
+  "name": "portfolio-cv-converter",
+  "version": "1.0.0",
+  "description": "Convert CV HTML to PDF",
+  "main": "generate-cv.js",
+  "scripts": {
+    "generate-cv": "node generate-cv.js"
+  },
+  "dependencies": {
+    "puppeteer": "^21.0.0"
+  }
+} 
